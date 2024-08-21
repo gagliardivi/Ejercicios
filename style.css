@@ -1,0 +1,12 @@
+img{
+    display: block;
+    margin: auto;
+}
+
+#intermeda{
+    display:none;
+}
+
+#real{
+    display: none;
+}
