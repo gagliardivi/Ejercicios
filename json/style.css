@@ -1,0 +1,19 @@
+main{
+    height: auto;
+    width: 80%;
+    background-color: cornflowerblue;
+    margin: auto;  
+    display: block;
+}
+.contenedorchiquito{
+    margin: 10px;
+    
+}
+
+h1{
+    display: inline-block;
+}
+
+.nombre{
+    color:blanchedalmond;
+}
